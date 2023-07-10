@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
-Python
-JavaScript
-TypeScript
+- 🌱 I’m currently learning ... Python, JavaScript e TypeScript
